@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-21T18:44:37 IST" name="Suite" finished-at="2022-12-21T18:45:10 IST" duration-ms="32661">
+    <groups>
+    </groups>
+    <test started-at="2022-12-21T18:44:37 IST" name="Test" finished-at="2022-12-21T18:45:10 IST" duration-ms="32661">
+      <class name="com.TestScripts.HybridFramework.AddToCartTest">
+        <test-method is-config="true" signature="configBT()[pri:0, instance:com.TestScripts.HybridFramework.AddToCartTest@6bd61f98]" started-at="2022-12-21T18:44:37 IST" name="configBT" finished-at="2022-12-21T18:44:54 IST" duration-ms="17424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBT -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.TestScripts.HybridFramework.AddToCartTest@6bd61f98]" started-at="2022-12-21T18:44:54 IST" name="configBM" finished-at="2022-12-21T18:45:00 IST" duration-ms="5428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="addToCartTest()[pri:0, instance:com.TestScripts.HybridFramework.AddToCartTest@6bd61f98]" started-at="2022-12-21T18:45:00 IST" name="addToCartTest" finished-at="2022-12-21T18:45:05 IST" duration-ms="4784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.TestScripts.HybridFramework.AddToCartTest@6bd61f98]" started-at="2022-12-21T18:45:05 IST" name="configAM" finished-at="2022-12-21T18:45:07 IST" duration-ms="1975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAT()[pri:0, instance:com.TestScripts.HybridFramework.AddToCartTest@6bd61f98]" started-at="2022-12-21T18:45:07 IST" name="configAT" finished-at="2022-12-21T18:45:10 IST" duration-ms="2989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAT -->
+      </class> <!-- com.TestScripts.HybridFramework.AddToCartTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
